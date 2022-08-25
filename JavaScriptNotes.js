@@ -2,7 +2,7 @@
 
 // let x = {name:"Carl",leftHand:"staff",rightHand:"straightsword"};
 
-class Tarneshed {
+class Tarnished {
     startingclass;
 
     getstartingClass(prisoner){
@@ -16,7 +16,7 @@ class Tarneshed {
     }
 }
 
-let data = Tarneshed();
+let data = Tarnished();
 
 // class user{
 //     DOB;
